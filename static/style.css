@@ -1,0 +1,25 @@
+#p-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-radius: 50%;
+  }
+
+.header-title {
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+    color: #BB86FC;
+}
+
+body {
+    background-color: #121212;
+    
+}
+
+h1 {
+    color: #BB86FC;
+}
